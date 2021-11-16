@@ -1,0 +1,9 @@
+body {
+    background: url(https://image.freepik.com/vecteurs-libre/motif-vichy-rouge-blanc_1048-8291.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bloc_page {
+    background-color: white;
+    color: #ffd000;
+}
