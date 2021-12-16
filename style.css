@@ -169,6 +169,10 @@ aside img
     text-decoration: none;
 }
 
+.titre{
+    font-size: 1em;
+    font-weight: bold;
+}
 /* Footer */
 
 footer
