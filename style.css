@@ -128,6 +128,10 @@ article p
     font-size: 0.8em;
 }
 
+article h1{
+    color: #ff9500;
+}
+
 aside
 {
     margin-right: 20px;
@@ -162,10 +166,21 @@ aside
 aside img
 {
     margin-right: 5px;
+    max-width: 100%;
+}
+
+.img{
+    margin-right: 5px;
+    max-width: 45%;
 }
 
 .link{
     color: #fff;
+    text-decoration: none;
+}
+
+.link2{
+    color: #ff9500;
     text-decoration: none;
 }
 
